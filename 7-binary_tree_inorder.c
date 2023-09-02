@@ -15,7 +15,7 @@ void binary_tree_inorder(const binary_tree_t *tree, void (*func)(int))
 	func(tree->n);
 	binary_tree_inorder(tree->right, func);
 
-/**instead of seeing the current node first, what it does is*/
+/**Instead of seeing the current node first, what it does is*/
 /**see the one on the left, then the current one*/
 /**and finally the one on the right*/
 }
