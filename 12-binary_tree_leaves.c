@@ -4,7 +4,7 @@
  * binary_tree_leaves - Function that counts the leaves.
  * in a binary tree.
  * @tree: pointer to the root node of the tree to count
- * the number of leaves.
+ * the number of leaves
  * Return: num of the leaves.
  */
 
